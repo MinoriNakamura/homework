@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\saint\source\repos\homework\homework\Source.cpp(1): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  homework.vcxproj -> C:\Users\saint\source\repos\homework\Debug\homework.exe
